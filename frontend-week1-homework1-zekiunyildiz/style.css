@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#header{
+    font-size: 1.5rem;
+}
+
+header,
+form{
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+a{
+    color:white;
+}
+body{
+    background-image: linear-gradient(120deg, #e2c35d, #d88771);
+    color:rgb(39, 229, 243);
+    font-family: "Popins",sans-serif;
+}

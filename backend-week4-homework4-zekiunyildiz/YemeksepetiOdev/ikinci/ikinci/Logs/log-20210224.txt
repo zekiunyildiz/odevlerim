@@ -1,0 +1,50 @@
+2021-02-24 16:37:25.943 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Application started. Press Ctrl+C to shut down.
+2021-02-24 16:37:25.975 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 1 }] Request starting HTTP/2.0 GET https://localhost:44324/weatherforecast  
+2021-02-24 16:37:26.015 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Hosting environment: "Development"
+2021-02-24 16:37:26.016 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Content root path: "C:\Users\Zeki\source\repos\ikinci\ikinci"
+2021-02-24 16:37:26.041 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Name: "ExecutingEndpoint" }] Executing endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:37:26.077 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 3, Name: "ControllerActionExecuting" }] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[ikinci.WeatherForecast] Get(Int32)" on controller "ikinci.Controllers.WeatherForecastController" ("ikinci").
+2021-02-24 16:37:26.101 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor] [{ Id: 1, Name: "ObjectResultExecuting" }] Executing ObjectResult, writing value of type '"ikinci.WeatherForecast[]"'.
+2021-02-24 16:37:26.124 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 2, Name: "ActionExecuted" }] Executed action "ikinci.Controllers.WeatherForecastController.Get (ikinci)" in 43.8309ms
+2021-02-24 16:37:26.125 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Id: 1, Name: "ExecutedEndpoint" }] Executed endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:37:26.130 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 2 }] Request finished in 157.3759ms 200 application/json; charset=utf-8
+2021-02-24 16:38:32.571 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Application started. Press Ctrl+C to shut down.
+2021-02-24 16:38:32.597 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 1 }] Request starting HTTP/2.0 GET https://localhost:44324/weatherforecast  
+2021-02-24 16:38:32.603 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Hosting environment: "Development"
+2021-02-24 16:38:32.605 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Content root path: "C:\Users\Zeki\source\repos\ikinci\ikinci"
+2021-02-24 16:38:32.633 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Name: "ExecutingEndpoint" }] Executing endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:38:32.659 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 3, Name: "ControllerActionExecuting" }] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[ikinci.WeatherForecast] Get(Int32)" on controller "ikinci.Controllers.WeatherForecastController" ("ikinci").
+2021-02-24 16:38:32.678 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor] [{ Id: 1, Name: "ObjectResultExecuting" }] Executing ObjectResult, writing value of type '"ikinci.WeatherForecast[]"'.
+2021-02-24 16:38:32.699 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 2, Name: "ActionExecuted" }] Executed action "ikinci.Controllers.WeatherForecastController.Get (ikinci)" in 35.9007ms
+2021-02-24 16:38:32.701 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Id: 1, Name: "ExecutedEndpoint" }] Executed endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:38:32.704 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 2 }] Request finished in 110.1659ms 200 application/json; charset=utf-8
+2021-02-24 16:42:15.282 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Application started. Press Ctrl+C to shut down.
+2021-02-24 16:42:15.302 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 1 }] Request starting HTTP/2.0 GET https://localhost:44324/weatherforecast  
+2021-02-24 16:42:15.312 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Hosting environment: "Development"
+2021-02-24 16:42:15.313 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Content root path: "C:\Users\Zeki\source\repos\ikinci\ikinci"
+2021-02-24 16:42:15.332 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Name: "ExecutingEndpoint" }] Executing endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:42:15.357 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 3, Name: "ControllerActionExecuting" }] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[ikinci.WeatherForecast] Get(Int32)" on controller "ikinci.Controllers.WeatherForecastController" ("ikinci").
+2021-02-24 16:42:15.377 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor] [{ Id: 1, Name: "ObjectResultExecuting" }] Executing ObjectResult, writing value of type '"ikinci.WeatherForecast[]"'.
+2021-02-24 16:42:15.396 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 2, Name: "ActionExecuted" }] Executed action "ikinci.Controllers.WeatherForecastController.Get (ikinci)" in 34.6866ms
+2021-02-24 16:42:15.397 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Id: 1, Name: "ExecutedEndpoint" }] Executed endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:42:15.399 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 2 }] Request finished in 104.2136ms 200 application/json; charset=utf-8
+2021-02-24 16:53:14.480 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Application started. Press Ctrl+C to shut down.
+2021-02-24 16:53:14.531 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 1 }] Request starting HTTP/2.0 GET https://localhost:44324/weatherforecast  
+2021-02-24 16:53:14.544 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Hosting environment: "Development"
+2021-02-24 16:53:14.544 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Content root path: "C:\Users\Zeki\source\repos\ikinci\ikinci"
+2021-02-24 16:53:14.572 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Name: "ExecutingEndpoint" }] Executing endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:53:14.602 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 3, Name: "ControllerActionExecuting" }] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[ikinci.WeatherForecast] Get(Int32)" on controller "ikinci.Controllers.WeatherForecastController" ("ikinci").
+2021-02-24 16:53:14.626 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor] [{ Id: 1, Name: "ObjectResultExecuting" }] Executing ObjectResult, writing value of type '"ikinci.WeatherForecast[]"'.
+2021-02-24 16:53:14.656 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 2, Name: "ActionExecuted" }] Executed action "ikinci.Controllers.WeatherForecastController.Get (ikinci)" in 47.8109ms
+2021-02-24 16:53:14.657 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Id: 1, Name: "ExecutedEndpoint" }] Executed endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:53:14.659 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 2 }] Request finished in 133.2271ms 200 application/json; charset=utf-8
+2021-02-24 16:54:22.510 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Application started. Press Ctrl+C to shut down.
+2021-02-24 16:54:22.529 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 1 }] Request starting HTTP/2.0 GET https://localhost:44324/weatherforecast  
+2021-02-24 16:54:22.539 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Hosting environment: "Development"
+2021-02-24 16:54:22.540 +03:00 [Information] [Microsoft.Hosting.Lifetime] [] Content root path: "C:\Users\Zeki\source\repos\ikinci\ikinci"
+2021-02-24 16:54:22.559 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Name: "ExecutingEndpoint" }] Executing endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:54:22.584 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 3, Name: "ControllerActionExecuting" }] Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[ikinci.WeatherForecast] Get(Int32)" on controller "ikinci.Controllers.WeatherForecastController" ("ikinci").
+2021-02-24 16:54:22.603 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor] [{ Id: 1, Name: "ObjectResultExecuting" }] Executing ObjectResult, writing value of type '"ikinci.WeatherForecast[]"'.
+2021-02-24 16:54:22.622 +03:00 [Information] [Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker] [{ Id: 2, Name: "ActionExecuted" }] Executed action "ikinci.Controllers.WeatherForecastController.Get (ikinci)" in 34.5627ms
+2021-02-24 16:54:22.623 +03:00 [Information] [Microsoft.AspNetCore.Routing.EndpointMiddleware] [{ Id: 1, Name: "ExecutedEndpoint" }] Executed endpoint '"ikinci.Controllers.WeatherForecastController.Get (ikinci)"'
+2021-02-24 16:54:22.625 +03:00 [Information] [Microsoft.AspNetCore.Hosting.Diagnostics] [{ Id: 2 }] Request finished in 103.6623ms 200 application/json; charset=utf-8

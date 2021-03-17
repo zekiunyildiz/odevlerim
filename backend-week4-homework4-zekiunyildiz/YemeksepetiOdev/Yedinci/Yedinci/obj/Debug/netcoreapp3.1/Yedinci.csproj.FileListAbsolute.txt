@@ -1,0 +1,6 @@
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.csprojAssemblyReference.cache
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.AssemblyInfoInputs.cache
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.AssemblyInfo.cs
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.csproj.CoreCompileInputs.cache
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zeki\source\repos\Yedinci\Yedinci\obj\Debug\netcoreapp3.1\Yedinci.MvcApplicationPartsAssemblyInfo.cache
